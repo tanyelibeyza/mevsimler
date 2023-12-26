@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\mevsimler\mevsimler\bin\Debug\mevsimler.exe.config
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\mevsimler\mevsimler\bin\Debug\mevsimler.exe
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\mevsimler\mevsimler\bin\Debug\mevsimler.pdb
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\mevsimler\mevsimler\obj\Debug\mevsimler.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\mevsimler\mevsimler\obj\Debug\mevsimler.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\mevsimler\mevsimler\obj\Debug\mevsimler.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\mevsimler\mevsimler\obj\Debug\mevsimler.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\mevsimler\mevsimler\obj\Debug\mevsimler.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\mevsimler\mevsimler\obj\Debug\mevsimler.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\mevsimler\mevsimler\obj\Debug\mevsimler.exe
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\mevsimler\mevsimler\obj\Debug\mevsimler.pdb
